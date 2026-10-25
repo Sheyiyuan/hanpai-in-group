@@ -1,0 +1,12 @@
+/target
+/config.toml
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
+/.cargo-home
+/dist
+/data
+/logs
+*.log
+.env
