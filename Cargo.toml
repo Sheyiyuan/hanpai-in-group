@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2021"
 rust-version = "1.80"
 description = "一个长期记忆、会自己判断要不要插话的 QQ 群聊机器人"
+license = "GPL-3.0-only"
+repository = "https://github.com/Sheyiyuan/hanpai-in-group"
 
 [dependencies]
 anyhow = "1"
